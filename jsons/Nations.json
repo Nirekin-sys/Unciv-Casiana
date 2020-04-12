@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Caziana",
+		"leaderName": "Duke Cassio",
+		"adjective": ["Cazians"],
+		"startBias": ["Avoid Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Do not blame us when you threaten our trade with your menace!",
+		"attacked": "This is a financially unwise decision.",
+		"defeated": "Our coffers run dry, our wealth tantamount to nothing!",
+		"introduction": "Move aside, I have commerce to attend to...",
+		
+		"neutralHello": "Care to trade?",
+		"hateHello": "I have no use for your goods, beggar.",
+		
+		"tradeRequest": "You are wealthy in some aspects, care to trade?",
+				
+		"outerColor": [130,59,59],
+		"innerColor": [255,216,0],
+		"unique": "TRADE_CARAVANS",
+		"cities": ["Casa Anna","Agrizi","Chiegola","Messimona","Vizana","Sabamanca","Bergagento","Viavorno","Lugrono","Komopetra",
+			"Guarrasa","Mosa","Herapoli","Trevigola","Anavena","Barlepoli","Beloma","Lucante","Nuvopoli","Voropi",
+			"Sevecchia","Pescaligno","Vizera","Amaraluzia","Cordolagio","Melirdelio","Fiunzaro","Vechianna","Cagliavero","Leggiopoli",
+			"Leggio","Leggio","Acissetta","Froza","Verina","Montecchia","Raveza","Seturosa","Giugliari","Vechiagrizi"]
+	}
+]
