@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Gigantereme",
-		"unitType": "WaterMelee",
+		"unitType": "WaterRanged",
 		"replaces": "Frigate",
 		"uniqueTo": "Caziana"
 		"movement": 4,
