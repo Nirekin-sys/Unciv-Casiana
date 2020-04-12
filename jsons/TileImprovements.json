@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Canal",
-		"uniqueTo": Caziana,
+		"uniqueTo": "Caziana",
     "food": 1,
 		"gold": 1,
 		"turnsToBuild": 7,
