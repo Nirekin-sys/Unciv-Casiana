@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Canal",
+		"uniqueTo": Caziana,
+    "food": 1,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Can only be built on Coastal tiles"],
+		"techRequired": "Construction",
+		"improvingTech": "Steam Power",
+		"improvingTechStats": {"gold": 1}
+	}
+]
